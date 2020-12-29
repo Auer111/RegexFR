@@ -1,0 +1,35 @@
+/*
+  Only a bit of a mess :\
+
+  actionType 
+    - this refrences built in functions within the app
+    - the value of this string must be selected from the dropdown in the *run the Program > Edit Actions > Action Types (dropdown)
+  actionName
+    -pick anything you want here, it's used for the UI
+  actionDescription
+    -what does this action do.. or intent to do?
+  fileName
+    -actions rely on content from the data folder to extract and insert new data
+    -add a new json file with the data you need inserted or extracted
+    -currently only supports json with 'insert' and 'extract' properties
+  scopeLimitingREGEX
+    -the action shouldnt run on the entire file so first it will limit its scope
+    -use one of the strings in the *run the Program > Edit Actions > REGEX Options dropdown
+*/
+[
+  {
+    "actionType": "NestedReplace",
+    "actionName": "Class Name Replace",
+    "actionDescription": "Replace class names only within classes",
+    "fileName": "classchanges",
+    "scopeLimitingREGEX": "class"
+  },
+  {
+    "actionType": "Example Action Type",
+    "actionName": "Example Action",
+    "actionDescription": "Information on this example",
+    "fileName": "ikkfile",
+    "scopeLimitingREGEX": "idk1"
+  }
+
+]

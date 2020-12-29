@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Auer_Find_Replace.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="s1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">none</Value>
+    </Setting>
+    <Setting Name="s2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ton
+</Value>
+    </Setting>
+    <Setting Name="s3" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">won</Value>
+    </Setting>
+    <Setting Name="s4" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">done</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

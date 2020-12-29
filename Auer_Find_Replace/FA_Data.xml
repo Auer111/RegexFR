@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ArrayOfActionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <actionData>
+    <actionType>Nested Replace</actionType>
+    <actionName>Nested Class Relace</actionName>
+    <actionDescription>Replace class names only within the class scope. 
+Class names are extracted and inserted with the values from the file selected above.</actionDescription>
+    <fileName>data/bs4_migration.json</fileName>
+    <scopeLimitingREGEX>Class</scopeLimitingREGEX>
+  </actionData>
+  <actionData>
+    <actionType>Delete Scope</actionType>
+    <actionName>Condense</actionName>
+    <actionDescription>Find all empty lines in the file and delete them.
+
+Then use Ctrl-K-D to reformat the file.</actionDescription>
+    <fileName>data/bs4_migration.json</fileName>
+    <scopeLimitingREGEX>Empty Space</scopeLimitingREGEX>
+  </actionData>
+</ArrayOfActionData>

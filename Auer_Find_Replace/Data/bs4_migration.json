@@ -1,0 +1,77 @@
+[
+  {
+    "extract": "test01",
+    "insert": "_t1_REPLACED_"
+  },
+  {
+    "extract": "test02",
+    "insert": "_t2_REPLACED_"
+  },
+  {
+    "extract": "well",
+    "insert": "card card-body bg-light"
+  },
+  {
+    "extract": "navbar-inverse",
+    "insert": "bg-dark navbar-dark navbar-expand-md"
+  },
+  {
+    "extract": "navbar-fixed-top",
+    "insert": "fixed-top"
+  },
+  {
+    "extract": "navbar-toggle",
+    "insert": "navbar-toggler"
+  },
+  {
+    "extract": "nav-pills",
+    "insert": "nav-pills nav-fill"
+  },
+  {
+    "extract": "pull-right",
+    "insert": "float-right"
+  },
+  {
+    "extract": "pull-left",
+    "insert": "float-left"
+  },
+  {
+    "extract": "btn-primary",
+    "insert": "btn-outline-secondary"
+  },
+  {
+    "extract": "icon-signout",
+    "insert": "fas fa-sign-out"
+  },
+  {
+    "extract": "icon-info-sign",
+    "insert": "fas fa-info-circle"
+  },
+  {
+    "extract": "icon-bar",
+    "insert": "fas fa-bars"
+  },
+  {
+    "extract": "icon-question-sign",
+    "insert": "fas fa-question-circle"
+  },
+  {
+    "extract": "icon-",
+    "insert": "fas fa-"
+  },
+  {
+    "extract": "panel panel-default",
+    "insert": "card"
+  },
+  {
+    "extract": "panel-heading",
+    "insert": "card-header"
+  },
+  {
+    "extract": "panel-body",
+    "insert": "card-body"
+  }
+
+
+]
+  

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <string>\\NM-TST-WEB01.ad.cdc.nicusa.com\d$</string>
+  <string>\\NM-STG-WEB01a.ad.cdc.nicusa.com\d$</string>
+  <string>\\NM-STG-WEB01b.ad.cdc.nicusa.com\d$</string>
+  <string>\\NM-PRD-Web51a.ad.cdc.nicusa.com\d$</string>
+  <string>\\NM-PRD-Web51b.ad.cdc.nicusa.com\d$</string>
+  <string>\\NM-PRD-Web01a.ad.cdc.nicusa.com\d$</string>
+  <string>\\NM-PRD-Web01b.ad.cdc.nicusa.com\d$</string>
+  <string>\\NM-TST-APP01.ad.cdc.nicusa.com\d$</string>
+  <string>\\NM-STG-APP01a.ad.cdc.nicusa.com\d$</string>
+  <string>\\NM-STG-APP01b.ad.cdc.nicusa.com\d$</string>
+  <string>\\NM-PRD-APP51a.ad.cdc.nicusa.com\d$</string>
+  <string>\\NM-PRD-APP51b.ad.cdc.nicusa.com\d$</string>
+  <string>\\NM-PRD-APP01a.ad.cdc.nicusa.com\d$</string>
+  <string>\\NM-PRD-APP01b.ad.cdc.nicusa.com\d$</string>
+</ArrayOfString>
